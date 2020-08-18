@@ -1,0 +1,1 @@
+print("There's a 'free team' thing, should I m'")
